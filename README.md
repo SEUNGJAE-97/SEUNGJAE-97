@@ -1,4 +1,4 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hsj6738)](https://solved.ac/rlatngus1691/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hsj6738)](https://solved.ac/hsj6738/)
 # 💪Skills
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
